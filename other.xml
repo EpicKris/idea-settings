@@ -1,0 +1,24 @@
+<application>
+  <component name="AngularJSConfig">
+    <option name="INSERT_WHITESPACE" value="true" />
+  </component>
+  <component name="BuiltInServerOptions" builtInServerAvailableExternally="true" />
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>df9fdf9cdf98df9adfc9df9fdfc8df9fdfcbdf99dfccdf9ddf93df9cdf9cdf9adf9ddf9adf98dfccdfcfdf92df9bdfcedfc8dfcedf9adf9edf9edfc9dfcfdf9ddfccdf98dfcfdfcedfcbdf99df9bdf99</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="EpicKris" />
+      <option name="repoName" value="polar" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+</application>
