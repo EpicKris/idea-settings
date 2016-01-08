@@ -2,6 +2,22 @@
   <component name="AngularJSConfig">
     <option name="INSERT_WHITESPACE" value="true" />
   </component>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="BuiltInServerOptions" builtInServerAvailableExternally="true" />
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="https://github.com">
