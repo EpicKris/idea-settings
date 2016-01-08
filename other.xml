@@ -58,6 +58,9 @@
     </entry>
   </component>
   <component name="BuiltInServerOptions" builtInServerAvailableExternally="true" />
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="0.12.2" last-modified="1427840362000" />
+  </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="https://github.com">
       <option name="assignedIssuesOnly" value="false" />
