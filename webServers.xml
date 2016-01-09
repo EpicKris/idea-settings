@@ -4,6 +4,9 @@
       <webServer id="c4315d63-f70f-4439-9fa1-8ff465f88bee" name="Project" url="http://polar.epickris.net">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="6ccd1aa2-5239-497c-a954-ab74077633f8" name="Cozy Glow" url="http://cozyglow.epickris.net">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
