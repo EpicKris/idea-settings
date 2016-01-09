@@ -1,5 +1,7 @@
 <code_scheme name="EpicKris">
   <PHPCodeStyleSettings>
+    <option name="SPACE_BEFORE_UNARY_NOT" value="true" />
+    <option name="SPACE_AFTER_UNARY_NOT" value="true" />
     <option name="PREFER_TEMPLATE_INDENTS" value="true" />
   </PHPCodeStyleSettings>
   <XML>
