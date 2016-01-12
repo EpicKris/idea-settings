@@ -22,10 +22,16 @@
             <id>General</id>
           </State>
           <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
             <id>GeneralPHP</id>
           </State>
           <State>
             <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
           </State>
           <State>
             <id>PHP</id>
