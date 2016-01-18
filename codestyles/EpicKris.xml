@@ -5,9 +5,20 @@
     <option name="OBJECT_WRAPPING" value="5" />
     <option name="ARRAY_WRAPPING" value="5" />
   </JSON>
+  <PHPCodeStyleSettings>
+    <option name="PREFER_TEMPLATE_INDENTS" value="true" />
+  </PHPCodeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
