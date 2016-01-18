@@ -1,7 +1,6 @@
 <code_scheme name="EpicKris">
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <JSON>
-    <option name="PROPERTY_ALIGNMENT" value="1" />
     <option name="OBJECT_WRAPPING" value="5" />
     <option name="ARRAY_WRAPPING" value="5" />
   </JSON>
