@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8c3bf82b-8438-4fbd-9a5c-4294414fa63a" name="EpicKris" url="http://epickris.epickris.net">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
