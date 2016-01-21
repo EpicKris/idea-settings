@@ -1,10 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="c4315d63-f70f-4439-9fa1-8ff465f88bee" name="Project" url="http://polar.epickris.net">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="6ccd1aa2-5239-497c-a954-ab74077633f8" name="Cozy Glow" url="http://cozyglow.epickris.net">
+      <webServer id="8c3bf82b-8438-4fbd-9a5c-4294414fa63a" name="EpicKris" url="http://epickris.epickris.net">
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="ab862004-929a-4c38-8763-9e24c53d8135" name="alt" url="http://alt.epickris.net">
