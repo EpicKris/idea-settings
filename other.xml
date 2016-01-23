@@ -7,18 +7,72 @@
             <id />
           </State>
           <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
             <id>JavaScript</id>
           </State>
           <State>
-            <id>Node.jsJavaScript</id>
+            <id>Less</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
           </State>
           <State>
             <id>PHP</id>
           </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
+          <State>
+            <id>UnusedPHP</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>PhpCSValidationInspection</id>
+            <id>LocalVariableNamingConventionJS</id>
           </State>
         </selected-state>
       </profile-state>
