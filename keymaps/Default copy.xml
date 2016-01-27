@@ -1,10 +1,7 @@
-<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="Default copy" parent="$default">
   <action id="Diff.ShowSettingsPopup" />
   <action id="PhpGeneratePhpDocBlocks">
-    <keyboard-shortcut first-keystroke="shift meta d" />
-  </action>
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="ctrl comma" />
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="Uml.ShowDiff" />
 </keymap>
