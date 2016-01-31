@@ -7,13 +7,6 @@
       <webServer id="ab862004-929a-4c38-8763-9e24c53d8135" name="alt" url="http://alt.epickris.net">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="f5af153b-529e-4cfb-b5e1-3b7695a2f1ae" name="Matthews Master Cobbler" url="http://matthewsmastercobbler.com">
-        <fileTransfer host="matthewsmastercobbler.com" port="21" rootFolder="/public_html" password="dfe6dfdedff8dfdedff2dff3df9fdf92df9ddf92df93df93dfc6dfc5dfdcdfcf" username="admin@matthewsmastercobbler.com">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
