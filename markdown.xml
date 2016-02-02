@@ -1,6 +1,6 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings StylesheetUri="file:/$APPLICATION_PLUGINS_DIR$/markdown/lib/darcula.css" />
+    <MarkdownCssSettings StylesheetUri="file:$USER_HOME$/Library/Application%20Support/WebIde100/markdown/lib/darcula.css" />
   </component>
-  <component name="MarkdownSettings" parsingTimeout="10000" smarts="false" quotes="false" abbreviations="false" hardWraps="false" autoLinks="false" wikiLinks="false" tables="false" definitions="false" fencedCodeBlocks="false" suppressHTMLBlocks="false" suppressInlineHTML="false" strikethrough="false" />
+  <component name="MarkdownSettings" parsingTimeout="10000" smarts="true" quotes="true" abbreviations="true" hardWraps="true" autoLinks="true" wikiLinks="true" tables="true" definitions="true" fencedCodeBlocks="true" suppressHTMLBlocks="true" suppressInlineHTML="true" strikethrough="true" />
 </application>
