@@ -18,7 +18,15 @@
       </profile-state>
     </entry>
   </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="0.12.2" last-modified="1427840362000" />
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="" />
   </component>
 </application>
