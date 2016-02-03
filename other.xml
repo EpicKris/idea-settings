@@ -6,13 +6,42 @@
           <State>
             <id />
           </State>
+        </expanded-state>
+        <selected-state>
           <State>
-            <id>PHP</id>
+            <id>JavaScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="EpicKris">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>File Watchers</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>Spelling</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>MessDetectorValidationInspection</id>
+            <id>SpellCheckingInspection</id>
           </State>
         </selected-state>
       </profile-state>
