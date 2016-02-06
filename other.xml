@@ -24,13 +24,25 @@
             <id>CSS</id>
           </State>
           <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
             <id>File Watchers</id>
           </State>
           <State>
             <id>General</id>
           </State>
           <State>
+            <id>HTML</id>
+          </State>
+          <State>
             <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
           </State>
           <State>
             <id>Sass/SCSS</id>
@@ -41,7 +53,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>SpellCheckingInspection</id>
+            <id>CssConvertColorToHexInspection</id>
           </State>
         </selected-state>
       </profile-state>
