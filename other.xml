@@ -64,6 +64,9 @@
     <enable-developer-mode value="false" />
     <show-plugin-conflict-dialog value="false" />
   </component>
+  <component name="LuaApplicationSettings">
+    <option name="INCLUDE_ALL_FIELDS_IN_COMPLETIONS" value="true" />
+  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="0.12.2" last-modified="1427840362000" />
   </component>
