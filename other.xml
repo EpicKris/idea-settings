@@ -49,6 +49,10 @@
     <enable-developer-mode value="false" />
     <show-plugin-conflict-dialog value="false" />
   </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="$APPLICATION_HOME_DIR$/bin/file:/Users/Kristian/Library/Application%20Support/WebIde100/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$APPLICATION_HOME_DIR$/bin/file:/Users/Kristian/Library/Application%20Support/WebIde100/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
+  </component>
   <component name="LuaApplicationSettings">
     <option name="INCLUDE_ALL_FIELDS_IN_COMPLETIONS" value="true" />
   </component>
