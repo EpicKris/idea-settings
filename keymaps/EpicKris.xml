@@ -1,4 +1,5 @@
 <keymap version="1" name="EpicKris" parent="Mac OS X 10.5+">
+  <action id="DBNavigator.Actions.Navigation.GotoDatabaseObject" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="PhpGeneratePhpDocBlocks">
     <keyboard-shortcut first-keystroke="shift meta d" />
