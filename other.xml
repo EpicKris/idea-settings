@@ -18,33 +18,7 @@
       </profile-state>
     </entry>
     <entry key="EpicKris">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>File Watchers</id>
-          </State>
-          <State>
-            <id>HTML</id>
-          </State>
-          <State>
-            <id>Internationalization issues</id>
-          </State>
-          <State>
-            <id>Sass/SCSS</id>
-          </State>
-          <State>
-            <id>Spelling</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>TaskInspection</id>
-          </State>
-        </selected-state>
-      </profile-state>
+      <profile-state />
     </entry>
   </component>
   <component name="DBNavigator.Application.Settings">
