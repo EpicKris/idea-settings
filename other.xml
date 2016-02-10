@@ -24,10 +24,19 @@
             <id />
           </State>
           <State>
+            <id>AnnotationPHP</id>
+          </State>
+          <State>
             <id>Code SmellPHP</id>
           </State>
           <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
             <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control FlowPHP</id>
           </State>
           <State>
             <id>Control flow issuesJavaScript</id>
@@ -37,6 +46,9 @@
           </State>
           <State>
             <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralPHP</id>
           </State>
           <State>
             <id>Ignore</id>
@@ -63,7 +75,13 @@
             <id>Probable bugsPHP</id>
           </State>
           <State>
+            <id>Type compatibilityPHP</id>
+          </State>
+          <State>
             <id>UndefinedPHP</id>
+          </State>
+          <State>
+            <id>UnusedPHP</id>
           </State>
           <State>
             <id>XPath</id>
@@ -71,7 +89,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Ignore</id>
+            <id>PhpMethodOrClassCallIsNotCaseSensitiveInspection</id>
           </State>
         </selected-state>
       </profile-state>
