@@ -1,26 +1,75 @@
 <keymap version="1" name="EpicKris" parent="Mac OS X 10.5+">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="meta insert" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="CopyReference">
+    <keyboard-shortcut first-keystroke="shift meta alt c" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+  </action>
   <action id="DBNavigator.Actions.Navigation.GotoDatabaseObject" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="shift meta alt v" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt v" />
+  </action>
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift meta v" />
+    <keyboard-shortcut first-keystroke="shift meta insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+    <keyboard-shortcut first-keystroke="shift ctrl insert" />
+  </action>
   <action id="PhpGeneratePhpDocBlocks">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl alt comma" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="meta comma" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="ShowSettingsAndFindUsages">
+    <keyboard-shortcut first-keystroke="shift meta alt f7" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f7" />
+  </action>
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+    <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.QuickListPopupAction" />
 </keymap>

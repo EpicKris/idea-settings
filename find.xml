@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Polar" />
-    <option name="defaultScopeName" value="Polar" />
-    <option name="SEARCH_SCOPE" value="Polar" />
+    <option name="customScope" value="Source" />
+    <option name="defaultScopeName" value="Source" />
+    <option name="SEARCH_SCOPE" value="Source" />
   </component>
 </application>
