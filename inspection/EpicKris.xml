@@ -9,6 +9,7 @@
   <inspection_tool class="JSLint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="Jscs" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="LossyEncoding" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpMissingDocCommentInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ProblematicWhitespace" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="QuirksModeInspectionTool" enabled="true" level="WARNING" enabled_by_default="true">
