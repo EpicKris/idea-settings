@@ -9,7 +9,15 @@
   <inspection_tool class="JSLint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="Jscs" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="LossyEncoding" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="CODESIZE" value="true" />
+    <option name="DESIGN" value="true" />
+    <option name="NAMING" value="true" />
+  </inspection_tool>
+  <inspection_tool class="PhpCSValidationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+    <option name="CODING_STANDARD" value="MySource" />
+    <option name="SHOW_SNIFF_NAMES" value="true" />
+  </inspection_tool>
   <inspection_tool class="PhpMissingDocCommentInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ProblematicWhitespace" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="QuirksModeInspectionTool" enabled="true" level="WARNING" enabled_by_default="true">
