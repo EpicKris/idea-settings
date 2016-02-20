@@ -27,14 +27,12 @@
             <id />
           </State>
           <State>
-            <id>PHP</id>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
           </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>PhpCSValidationInspection</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
   </component>
