@@ -35,7 +35,7 @@
       <option name="program" value="$USER_HOME$/Development/polar/node_modules/gulp/bin/gulp.js" />
       <option name="scopeName" value="Polar" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="" />
+      <option name="workingDir" value="$USER_HOME$/Development/polar" />
       <envs />
     </TaskOptions>
   </component>
