@@ -97,7 +97,6 @@
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="SPACE_AROUND_UNARY_OPERATOR" value="true" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_WRAP" value="5" />
     <indentOptions>
