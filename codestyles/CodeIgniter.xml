@@ -22,6 +22,7 @@
   <JSCodeStyleSettings>
     <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="OBJECT_LITERAL_WRAP" value="2" />
   </JSCodeStyleSettings>
   <JSON>
     <option name="OBJECT_WRAPPING" value="5" />
