@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="CodeIgniter Fuel" />
-    <option name="defaultScopeName" value="CodeIgniter Fuel" />
-    <option name="SEARCH_SCOPE" value="CodeIgniter Fuel" />
+    <option name="customScope" value="Polar" />
+    <option name="defaultScopeName" value="Polar" />
+    <option name="SEARCH_SCOPE" value="Polar" />
   </component>
 </application>
