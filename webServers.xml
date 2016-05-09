@@ -7,6 +7,9 @@
       <webServer id="ab862004-929a-4c38-8763-9e24c53d8135" name="alt" url="http://alt.epickris.net">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="bcbb2f80-b275-4abf-8869-1aa083c1b28f" name="Cozy Glow API" url="http://development.api.cozyglow.co.uk">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
