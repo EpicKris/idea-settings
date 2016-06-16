@@ -27,20 +27,18 @@
             <id />
           </State>
           <State>
-            <id>Code quality toolsJavaScript</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
+            <id>PHP</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>JSHint</id>
+            <id>PhpCSValidationInspection</id>
           </State>
         </selected-state>
       </profile-state>
     </entry>
   </component>
+  <component name="BuiltInServerOptions" builtInServerAvailableExternally="true" />
   <component name="DBNavigator.Application.Settings">
     <enable-debug-mode value="false" />
     <enable-developer-mode value="false" />
