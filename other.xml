@@ -61,14 +61,51 @@
             <id />
           </State>
           <State>
+            <id>AngularJS</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralPHP</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Less</id>
+          </State>
+          <State>
             <id>PHP</id>
           </State>
-        </expanded-state>
-        <selected-state>
           <State>
-            <id>PhpCSValidationInspection</id>
+            <id>Probable bugsCoffeeScript</id>
           </State>
-        </selected-state>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>Type compatibilityPHP</id>
+          </State>
+        </expanded-state>
       </profile-state>
     </entry>
   </component>
@@ -130,6 +167,9 @@
     <option name="INCLUDE_ALL_FIELDS_IN_COMPLETIONS" value="true" />
   </component>
   <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/Cellar/node/6.2.2/bin/node">
+      <version-cache version="6.2.2" last-modified="1466328261000" />
+    </local-interpreter>
     <local-interpreter path="/usr/local/bin/node">
       <version-cache version="6.2.2" last-modified="1466328261000" />
       <npm-package value="/usr/local/lib/node_modules/npm" />
