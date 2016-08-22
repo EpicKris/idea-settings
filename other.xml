@@ -176,7 +176,7 @@
     </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="5.8.0" last-modified="1457491932000" />
+    <node-interpreter path="/usr/local/bin/node" version="6.2.2" last-modified="1466328261000" />
   </component>
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
