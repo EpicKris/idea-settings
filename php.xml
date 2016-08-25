@@ -13,7 +13,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/Applications/MAMP/bin/php/php7.0.0/bin/php" id="d8a06027-a9b2-4902-9a7b-e03bc41c52cf" name="MAMP 7" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/Applications/MAMP/bin/php/php5.6.10/bin/php" id="322d8bc6-a4b0-4732-bd66-d7bb050ca4e0" name="MAMP 5.6" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/Applications/MAMP/bin/php/php5.6.10/bin/php" id="322d8bc6-a4b0-4732-bd66-d7bb050ca4e0" name="MAMP 5.6" debugger_id="php.debugger.XDebug" debugger_extension="/Applications/MAMP/bin/php/php5.6.10/lib/php/extensions/no-debug-non-zts-20131226/xdebug.so" />
       <interpreter home="/usr/bin/php" id="5cc2ed6f-7de4-4c30-9ed1-1bd5ad79b3e3" name="Local" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
