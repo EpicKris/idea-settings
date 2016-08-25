@@ -1,0 +1,41 @@
+<application>
+  <component name="libraryTable">
+    <library name="jquery" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_static.tumblr.com_tldhdrz_IVhochgov_jquery.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_static.tumblr.com_tldhdrz_IVhochgov_jquery.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery-migrate" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_static.tumblr.com_tldhdrz_FVvochgsd_jquery-migrate.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_static.tumblr.com_tldhdrz_FVvochgsd_jquery-migrate.min.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="toolkit" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_static.tumblr.com_tldhdrz_22vochgu5_toolkit.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_static.tumblr.com_tldhdrz_22vochgu5_toolkit.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
