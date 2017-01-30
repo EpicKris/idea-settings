@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".env" type="Ini" />
+      <mapping ext="example" type="Ini" />
       <mapping pattern="UrlInterface" type="PLAIN_TEXT" />
       <mapping pattern="no_buyer_users_related_categories" type="PLAIN_TEXT" />
       <mapping pattern=".vagrant.d)" type="PLAIN_TEXT" />
