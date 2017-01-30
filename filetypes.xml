@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".vagrant.d)" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="Ini" />
       <mapping pattern="UrlInterface" type="PLAIN_TEXT" />
       <mapping pattern="no_buyer_users_related_categories" type="PLAIN_TEXT" />
+      <mapping pattern=".vagrant.d)" type="PLAIN_TEXT" />
       <mapping pattern="develop" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
