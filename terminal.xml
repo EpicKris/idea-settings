@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="/Applications/MAMP/bin/php/php7.0.13/bin/php" />
+    <option name="myShellPath" value="/bin/php" />
   </component>
 </application>
