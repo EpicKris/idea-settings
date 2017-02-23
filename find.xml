@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Application" />
-    <option name="defaultScopeName" value="Application" />
+    <option name="customScope" value="File '.../system/Language/Language.php - [CodeIgniter4]'" />
+    <option name="defaultScopeName" value="File '.../system/Language/Language.php - [CodeIgniter4]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Application" />
+    <option name="SEARCH_SCOPE" value="File '.../system/Language/Language.php - [CodeIgniter4]'" />
   </component>
 </application>
