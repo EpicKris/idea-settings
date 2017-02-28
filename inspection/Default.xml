@@ -14,14 +14,14 @@
   <inspection_tool class="ConditionalExpressionWithIdenticalBranchesJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConfusingFloatingPointLiteralJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConfusingPlusesOrMinusesJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ConstantOnLHSOfComparisonJS" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="ConstantOnLHSOfComparisonJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ContinueStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="CssMissingSemicolon" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="CssMissingSemicolon" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="CyclomaticComplexityJS" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_limit" value="10" />
   </inspection_tool>
   <inspection_tool class="DebuggerStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="DefaultNotLastCaseInSwitchJS" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="DefaultNotLastCaseInSwitchJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DivideByZeroJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DocumentWriteJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DuplicateConditionJS" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -44,18 +44,18 @@
   <inspection_tool class="IfStatementWithTooManyBranchesJS" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_limit" value="3" />
   </inspection_tool>
-  <inspection_tool class="InconsistentLineSeparators" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="IncrementDecrementResultUsedJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="InnerHTMLJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JSDeclarationsAtScopeStart" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="JSLint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="Jscs" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="LongLine" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="LongLine" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="MagicNumberJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="NegatedConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="NegatedIfStatementJS" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="NegatedIfStatementJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="NestedAssignmentJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NestedConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NestedFunctionCallJS" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -81,7 +81,7 @@
   </inspection_tool>
   <inspection_tool class="PhpAssignmentInConditionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
-    <option name="CODING_STANDARD" value="Custom" />
+    <option name="CODING_STANDARD" value="PSR2" />
   </inspection_tool>
   <inspection_tool class="PhpDivisionByZeroInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpIllegalPsrClassPathInspection" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -96,7 +96,7 @@
   <inspection_tool class="PhpUndefinedCallbackInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpUsageOfSilenceOperatorInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PlatformDetectionJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ProblematicWhitespace" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="ProblematicWhitespace" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="QuirksModeInspectionTool" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="IE50" value="false" />
     <option name="IE55" value="false" />
