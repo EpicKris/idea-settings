@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".env" type="Ini" />
       <mapping ext="example" type="Ini" />
+      <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="UrlInterface" type="PLAIN_TEXT" />
       <mapping pattern="no_buyer_users_related_categories" type="PLAIN_TEXT" />
       <mapping pattern=".vagrant.d)" type="PLAIN_TEXT" />
