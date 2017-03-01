@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../system/Language/en/Validation.php - [events.cozyglow.co.uk]'" />
-    <option name="defaultScopeName" value="File '.../system/Language/en/Validation.php - [events.cozyglow.co.uk]'" />
+    <option name="customScope" value="Application" />
+    <option name="defaultScopeName" value="Application" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../system/Language/en/Validation.php - [events.cozyglow.co.uk]'" />
+    <option name="SEARCH_SCOPE" value="Application" />
   </component>
 </application>
