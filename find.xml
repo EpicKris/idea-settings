@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../application/Config/API.php - [events.cozyglow.co.uk]'" />
-    <option name="defaultScopeName" value="File '.../application/Config/API.php - [events.cozyglow.co.uk]'" />
+    <option name="customScope" value="File '.../application/Config/DocTypes.php - [events.cozyglow.co.uk]'" />
+    <option name="defaultScopeName" value="File '.../application/Config/DocTypes.php - [events.cozyglow.co.uk]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../application/Config/API.php - [events.cozyglow.co.uk]'" />
+    <option name="SEARCH_SCOPE" value="File '.../application/Config/DocTypes.php - [events.cozyglow.co.uk]'" />
   </component>
 </application>
