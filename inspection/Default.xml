@@ -8,7 +8,7 @@
   <inspection_tool class="BlockStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="BreakStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ChainedEqualityJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ChainedFunctionCallJS" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ChainedFunctionCallJS" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="ClassMethodNameMatchesFieldNameInspection" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="ConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConditionalExpressionWithIdenticalBranchesJS" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -47,7 +47,6 @@
   <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="IncrementDecrementResultUsedJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="InnerHTMLJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="JSDeclarationsAtScopeStart" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="JSLint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="Jscs" enabled="true" level="ERROR" enabled_by_default="true" />
