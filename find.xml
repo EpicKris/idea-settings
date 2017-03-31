@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../application/Views/assets/head/ios_web_app.php - [events.cozyglow.co.uk]'" />
-    <option name="defaultScopeName" value="File '.../application/Views/assets/head/ios_web_app.php - [events.cozyglow.co.uk]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../application/Views/assets/head/ios_web_app.php - [events.cozyglow.co.uk]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
