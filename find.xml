@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../public/components/theme-marketing/less/custom/block.less - [shop-coulsdon]'" />
-    <option name="defaultScopeName" value="File '.../public/components/theme-marketing/less/custom/block.less - [shop-coulsdon]'" />
+    <option name="customScope" value="Project 'screen-play-server'" />
+    <option name="defaultScopeName" value="Project 'screen-play-server'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../public/components/theme-marketing/less/custom/block.less - [shop-coulsdon]'" />
+    <option name="SEARCH_SCOPE" value="Project 'screen-play-server'" />
   </component>
 </application>
