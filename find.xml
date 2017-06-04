@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'screen-play-server'" />
-    <option name="defaultScopeName" value="Project 'screen-play-server'" />
+    <option name="customScope" value="File '.../application/Database/Migrations/00000000000001_Init.php - [cozyglow.co.uk]'" />
+    <option name="defaultScopeName" value="File '.../application/Database/Migrations/00000000000001_Init.php - [cozyglow.co.uk]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'screen-play-server'" />
+    <option name="SEARCH_SCOPE" value="File '.../application/Database/Migrations/00000000000001_Init.php - [cozyglow.co.uk]'" />
   </component>
 </application>
