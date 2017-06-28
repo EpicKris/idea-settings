@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../public/components/theme-dashboard/less/custom/tablesorter.less - [Cozy Glow Events]'" />
-    <option name="defaultScopeName" value="File '.../public/components/theme-dashboard/less/custom/tablesorter.less - [Cozy Glow Events]'" />
+    <option name="customScope" value="File '.../application/Views/assets/dashboard/bookings/modals/create.php - [Cozy Glow Events]'" />
+    <option name="defaultScopeName" value="File '.../application/Views/assets/dashboard/bookings/modals/create.php - [Cozy Glow Events]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../public/components/theme-dashboard/less/custom/tablesorter.less - [Cozy Glow Events]'" />
+    <option name="SEARCH_SCOPE" value="File '.../application/Views/assets/dashboard/bookings/modals/create.php - [Cozy Glow Events]'" />
   </component>
 </application>
