@@ -1,7 +1,7 @@
 <code_scheme name="Kristian Matthews">
   <option name="HTML_KEEP_LINE_BREAKS" value="false" />
   <JSCodeStyleSettings>
-    <option name="ALIGN_MULTILINE_VAR_DECLARATION" value="true" />
+    <option name="ALIGN_VAR_STATEMENTS" value="1" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
@@ -18,6 +18,13 @@
     <option name="WRAP_INSIDE_ORDER_BY" value="5" />
     <option name="QUOTE_IDENTIFIER" value="0" />
   </SqlCodeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="TERNARY_OPERATION_WRAP" value="5" />
+    <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="5" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
