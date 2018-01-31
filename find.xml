@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../application/Controllers/Home.php [Cozy Glow Events]'" />
-    <option name="defaultScopeName" value="File '.../application/Controllers/Home.php [Cozy Glow Events]'" />
+    <option name="customScope" value="File '.../public/components/theme-marketing/less/toolkit-minimal-easter-egg-hunt.less [Cozy Glow Events]'" />
+    <option name="defaultScopeName" value="File '.../public/components/theme-marketing/less/toolkit-minimal-easter-egg-hunt.less [Cozy Glow Events]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../application/Controllers/Home.php [Cozy Glow Events]'" />
+    <option name="SEARCH_SCOPE" value="File '.../public/components/theme-marketing/less/toolkit-minimal-easter-egg-hunt.less [Cozy Glow Events]'" />
   </component>
 </application>
